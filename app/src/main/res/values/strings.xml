@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecondPartOfLab1</string>
+    <string name="student_timetable">Расписание для студентов</string>
+    <string name="teacher_timetable">Расписание для преподавателей</string>
+    <string name="student_timetable_for_day">Расписание на день</string>
+    <string name="timetable_for_week">Расписание на неделю</string>
+</resources>
